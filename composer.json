@@ -1,0 +1,20 @@
+{
+    "name": "laravelplus/laravel-53-skeleton",
+    "description": "The Laravel Framework Skeleton Project.",
+    "keywords": ["framework", "laravel", "skeleton"],
+    "license": "MIT",
+    "type": "project",
+    "version": "1.0.0",
+    "require": {
+        "watson/validating": "^3.0",
+        "webpatser/laravel-uuid": "2.*",
+        "jenssegers/date": "^3.2",
+        "yajra/laravel-datatables-oracle": "~6.0",
+        "kris/laravel-form-builder": "^1.10",
+        "vinkla/hashids": "^3.0",
+        "jenssegers/agent": "^2.4"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.6"
+    }
+}
